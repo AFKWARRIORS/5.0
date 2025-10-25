@@ -1,3 +1,1 @@
-local labelAtualizacoesPendentes = addLabel("SOULE_SCRIPTS_PENDING_LABEL", "Atualizacoes Pendentes")
-labelAtualizacoesPendentes:setFont("verdana-11px-rounded")
-labelAtualizacoesPendentes:setColor("#FF6347") 
+-- em breve
